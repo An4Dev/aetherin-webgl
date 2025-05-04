@@ -1,0 +1,79 @@
+
+
+------------------------------------------------------------
+Application started
+12:57:49.686: (I) 18196: Timestamp: QDateTime(2024-09-04 12:57:49.686 Hora oficial do Brasil Qt::LocalTime)
+12:57:49.686: (I) 18196: OS version: "Windows 10 Version 2009"
+12:57:49.686: (I) 18196: Kernel version: "10.0.22631"
+12:57:49.686: (I) 18196: CPU architecture: "x86_64"
+12:57:49.686: (I) 18196: Build ABI: "x86_64-little_endian-llp64"
+12:57:49.686: (I) 18196: Executable: "C:/Program Files (x86)/Icecream Video Converter/icevideoconverter.exe"
+12:57:49.686: (I) 18196: BuildVersion: "1.4.0"
+12:57:49.686: (I) 18196: DisplayVersion: "1.44"
+12:57:49.686: (I) 18196: PID: 9324
+12:57:49.686: (I) 18196: Main thread id: 18196
+12:57:49.686: (I) 18196: Qt::AA_EnableHighDpiScaling: true
+12:57:49.686: (I) 18196: Qt::AA_DisableHighDpiScaling: false
+12:57:49.686: (I) 18196: Qt Screen 0: primary, winScale: 120%, pixelRatio: 1.19792, logDpi: 96, phyDpi: 118.535, log/phy: 81%, geometry: {x:0, y:0, w: 1603, h: 902}, available: {x:0, y:0, w: 1603, h: 853}
+12:57:49.686: (I) 18196: 
+12:57:49.701: (I) 18196: IceTranslator::IceTranslator()          : Translations directory: "C:/Program Files (x86)/Icecream Video Converter/translations" , file prefix: "icevideoconverter" system locale: "pt_BR"
+12:57:49.717: (I) 18196: IceTranslator::translate()              : App translation applyed. Locale: "pt_BR"
+12:57:49.717: (I) 18196: send metrics true
+12:57:49.717: (I) 18196: Show splash ...
+12:57:49.717: (I) 18196: IceApplication::showSplash()            : Previously saved screen number: 0
+12:57:49.717: (I) 18196: IceApplication::showSplash()            : Working geometry: QRect(0,0 1603x902)
+12:57:50.062: (I) 18196: IceStyleManager::IceStyleManager()      : Init StyleManager done
+12:57:50.062: (I) 18196: Ui::Ui                                  : Entering 'Create UI controller'
+12:57:50.062: (I) 18196: Ui::Ui                                  : Leaving 'Create UI controller'. Elapsed time: 0
+12:57:50.062: (I) 18196: Ui::init                                : Entering 'Init UI controller'
+12:57:50.062: (I) 18196: IceStyleManager::setCurrentStyle()      :   Set current style: "LightStyle"
+12:57:50.062: (I) 18196: IceStyleManager::setCurrentStyle()      :   Default app font was changed to QFont(Segoe UI,-1,14,5,50,0,0,0,0,0)
+12:57:50.062: (I) 18196: Ui::init                                : Leaving 'Init UI controller'. Elapsed time: 0
+12:57:50.062: (I) 18196: Application::init                       : Entering 'Init app...'
+12:57:50.062: (I) 18196: IceApplication::prepareNetworkAccessMana:   Init SSL libraries: begin
+12:57:50.062: (I) 18196: IceApplication::prepareNetworkAccessMana:   Init SSL libraries: done, elapsed time: 8 msec , Enabled: true , Version: "OpenSSL 1.1.1p  21 Jun 2022"
+12:57:50.076: (I) 18196:   "C:/Program Files (x86)/Icecream Video Converter/icevideosvc.exe"
+12:57:50.132: (!) 18196:   License file not found: C:\Users\ana carolina\AppData\Local\Icecream\Icecream Video Converter\license.lic
+12:57:50.133: (I) 18196: Ui::createMainWindow                    :   Entering 'Create main window'
+12:57:50.133: (I) 18196: MainWindow::MainWindow                  :     Entering 'Create main widnow'
+12:57:50.152: (I) 18196:       Read fonts database: 9 ms. Fonts count: 79
+12:57:50.378: (I) 18196:       Fonts popup is filled in 225 ms. Fonts count: 79
+12:57:50.406: (I) 18196:       Fonts combo adjust size is done in 28 ms
+12:57:50.413: (I) 18196: MainWindow::MainWindow                  :     Leaving 'Create main widnow'. Elapsed time: 278
+12:57:50.413: (I) 18196: Ui::createMainWindow                    :   Leaving 'Create main window'. Elapsed time: 279
+12:57:50.413: (I) 18196:   Windows DPI: 115
+12:57:50.413: (I) 18196:   Run DxDiag generation...
+12:57:50.413: (I) 18196: Application::init                       : Leaving 'Init app...'. Elapsed time: 346
+12:57:50.413: (I) 18500: Run DxDiag from thread pool...
+12:57:50.413: (I) 18196: Instance created
+12:57:50.413: (I) 18196: Run app exec ...
+12:57:50.414: (I) 18500: Start dxdiag process: ""
+12:57:50.417: (I) 18196: handler started
+12:57:50.425: (I) 18500: Wait dxdiag finish...
+12:57:51.731: (I) 18196: IceSplash::Private::onMinDurationReached: Splash min wait time is reached and app is ready. Show existing mainWindow or create it
+12:57:51.731: (I) 18196: IceSplash::Private::onMinDurationReached: Main window already exists. Finish splash using MainWindow(0x1918d039610)
+12:57:51.736: (I) 18196: IceWindow::Private::onScreenChanged()   : MainWindow(0x1918d039610) initial pixel ratio: 1.19791 initial screen: QScreen(0x1918952f260, name="\\\\.\\DISPLAY1")
+12:57:55.826: (I) 18196: Server response: "1.44"
+12:57:55.826: (I) 18196: Compare versions.  server version: "1.44" current version: 1.44 result: 0
+12:58:00.914: (I) 18500: Wait dxdiag finished
+12:58:00.914: (I) 18500: Dxdiag tool completed with status: QProcess::NormalExit exit code: 0 error code: QProcess::UnknownError
+12:58:25.619: (I) 18196: IceWindow::Private::onScreenChanged()   : PresetsPopup(0x1918d044b50) initial pixel ratio: 1.19791 initial screen: QScreen(0x1918952f260, name="\\\\.\\DISPLAY1")
+13:00:00.203: (I) 18196: IceNativeWindowUtils::nativeEvent()     : IceWindow(0x1918d039610, name="MainWindow") System resize started
+13:00:00.595: (I) 18196: IceNativeWindowUtils::nativeEvent()     : IceWindow(0x1918d039610, name="MainWindow") System resize finished
+13:00:01.191: (I) 18196: IceNativeWindowUtils::nativeEvent()     : IceWindow(0x1918d039610, name="MainWindow") System move started
+13:00:02.211: (I) 18196: IceNativeWindowUtils::nativeEvent()     : IceWindow(0x1918d039610, name="MainWindow") System move finished
+13:00:04.834: (I) 18196: Add time: 7
+13:00:04.986: (!) 19948: Error while feeding the filtergraph Invalid argument
+13:00:08.612: (I) 18196: IceWindow::Private::checkTranslucentBack: IcePopupButtonPopup(0x19196865280) Turn Qt::WA_TranslucentBackground ON
+13:00:08.617: (I) 18196: IceWindow::Private::onScreenChanged()   : IcePopupButtonPopup(0x19196865280) initial pixel ratio: 1.19791 initial screen: QScreen(0x1918952f260, name="\\\\.\\DISPLAY1")
+13:00:13.656: (I) 18196: IceWindow::Private::checkTranslucentBack: IcePopupButtonPopup(0x191965077d0) Turn Qt::WA_TranslucentBackground ON
+13:00:13.660: (I) 18196: IceWindow::Private::onScreenChanged()   : IcePopupButtonPopup(0x191965077d0) initial pixel ratio: 1.19791 initial screen: QScreen(0x1918952f260, name="\\\\.\\DISPLAY1")
+13:00:23.621: (I) 18196: IceWindow::Private::onScreenChanged()   : UpgradeDialog(0x84422fb590) initial pixel ratio: 1.19791 initial screen: QScreen(0x1918952f260, name="\\\\.\\DISPLAY1")
+13:00:27.603: (I) 18196: Open "https://icecreamapps.com/Video-Converter/upgrade.html?v=1.44&t=2"
+13:00:50.667: (I) 18196: IceWindow::Private::onScreenChanged()   : UpgradeDialog(0x84422fb590) initial pixel ratio: 1.19791 initial screen: QScreen(0x1918952f260, name="\\\\.\\DISPLAY1")
+13:00:56.541: (I) 18196: IceNativeWindowUtils::nativeEvent()     : IceWindow(0x1918d039610, name="MainWindow") System move started
+13:00:57.073: (I) 18196: IceNativeWindowUtils::nativeEvent()     : IceWindow(0x1918d039610, name="MainWindow") System move finished
+13:14:02.247: (I) 18196: Open "https://icecreamapps.com/Video-Converter/upgrade.html?v=1.44&t=1"
+13:15:31.925: (I) 18196: IceWindow::Private::checkTranslucentBack: PostActionsCombo Popup(0x1918d05d6c0) Turn Qt::WA_TranslucentBackground ON
+13:15:31.949: (I) 18196: IceWindow::Private::onScreenChanged()   : PostActionsCombo Popup(0x1918d05d6c0) initial pixel ratio: 1.19791 initial screen: QScreen(0x1918952f260, name="\\\\.\\DISPLAY1")
+13:22:27.013: (I) 18196: Exit from application (main). Exit code: 0

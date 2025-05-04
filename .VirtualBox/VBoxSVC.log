@@ -1,0 +1,87 @@
+00:00:00.005513 main     VirtualBox COM Server 6.1.20 r143896 win.amd64 (Apr 20 2021 05:23:38) release log
+00:00:00.005519 main     Log opened 2025-01-24T16:22:07.975217700Z
+00:00:00.005520 main     Build Type: release
+00:00:00.005526 main     OS Product: Windows 10
+00:00:00.005527 main     OS Release: 10.0.22631
+00:00:00.005528 main     OS Service Pack: 
+00:00:00.027356 main     DMI Product Name: VJFE59F11X-B0821H
+00:00:00.040110 main     DMI Product Version: Default string
+00:00:00.040121 main     Firmware type: UEFI
+00:00:00.040925 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.041795 main     Host RAM: 15750MB (15.3GB) total, 7168MB (7.0GB) available
+00:00:00.041799 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.041800 main     Process ID: 7324
+00:00:00.041800 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.162416          VirtualBox: object creation starts
+00:00:00.163598          Home directory: 'C:\Users\ana carolina\.VirtualBox'
+00:00:00.163883          Installed Drivers:
+00:00:00.170744          Loading settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.175126          USBLibInit: USB Service not found
+00:00:00.286609          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.291358          HostDnsMonitor: initializing
+00:00:00.305561          HostDnsMonitor: updating information
+00:00:00.306159          HostDnsMonitor: old information
+00:00:00.306162            no server entries
+00:00:00.306163            no domain set
+00:00:00.306163            no search string entries
+00:00:00.306164          HostDnsMonitor: new information
+00:00:00.306164            server 1: 192.168.100.1
+00:00:00.306165            no domain set
+00:00:00.306165            no search string entries
+00:00:00.314069          VD: VDInit finished with VINF_SUCCESS
+00:00:00.316392          VirtualBox: object created
+00:00:01.061638          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'boinc_7af83eaf1c3116b5'}, preserve=false aResultDetail=0
+00:00:01.319349          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Could not find file for the medium 'C:\ProgramData\BOINC\slots\1\vm_image.vdi' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:00:02.131239          Saving settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.391780          Saving settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.684608          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:02.688552          Saving settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.959848          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:03.221691          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:03.498864          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:03.781700          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:04.041466          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:04.313263          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:04.587458          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:04.885510          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:05.165851          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:05.443980          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:05.721707          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:06.001005          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:06.277203          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:06.556921          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:06.832339          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:07.090151          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:07.368657          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'Hard Disk Controller'}, preserve=false aResultDetail=0
+00:00:07.370651          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'Hard Disk Controller'}, preserve=false aResultDetail=0
+00:00:07.371087          Saving settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:07.376178          Saving settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:07.382094          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:07.644230          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 2 of controller 'Hard Disk Controller'}, preserve=false aResultDetail=0
+00:00:07.646709          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 2 of controller 'Hard Disk Controller'}, preserve=false aResultDetail=0
+00:00:07.646854          Saving settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:07.651509          Saving settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:07.657571          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:07.910026          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'Hard Disk Controller'}, preserve=false aResultDetail=0
+00:00:07.912354          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'Hard Disk Controller'}, preserve=false aResultDetail=0
+00:00:07.912539          Saving settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:07.918204          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:08.189439          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:08.457923          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:08.731573          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:09.016576          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:09.016998          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:09.022979          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:09.319805          Launched VM: 46435104 pid: 30508 (0x772c) frontend: headless name: boinc_7af83eaf1c3116b5
+00:00:10.078375 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'boinc_7af83eaf1c3116b5' has terminated unexpectedly during startup with exit code 1 (0x1).  More details may be available in 'C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+00:00:10.078841 Watcher  Reaper: Pid 30508 (772c) exited normally: 1 (0x1)
+00:00:10.186666          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:10.272728          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_7af83eaf1c3116b5\boinc_7af83eaf1c3116b5.vbox" with version "1.16-windows"
+00:00:10.549731          Saving settings file "C:\Users\ana carolina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.081178          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:11.081291          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Could not find file for the medium 'C:\ProgramData\BOINC\slots\1\vm_cache.vdi' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:00:16.095957 main     VirtualBox: object deletion starts
+00:00:16.096749 main     HostDnsMonitor: shutting down ...
+00:00:16.096819 main     HostDnsMonitor: shut down
+00:00:16.098410 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:16.098600 main     VirtualBox: object deleted

@@ -1,0 +1,65 @@
+
+
+------------------------------------------------------------
+Application started
+12:57:50.258: (I) 18908: Timestamp: QDateTime(2024-09-04 12:57:50.258 Hora oficial do Brasil Qt::LocalTime)
+12:57:50.258: (I) 18908: OS version: "Windows 10 Version 2009"
+12:57:50.258: (I) 18908: Kernel version: "10.0.22631"
+12:57:50.258: (I) 18908: CPU architecture: "x86_64"
+12:57:50.258: (I) 18908: Build ABI: "x86_64-little_endian-llp64"
+12:57:50.258: (I) 18908: Executable: "C:/Program Files (x86)/Icecream Video Converter/icevideosvc.exe"
+12:57:50.258: (I) 18908: BuildVersion: ""
+12:57:50.259: (I) 18908: DisplayVersion: ""
+12:57:50.259: (I) 18908: PID: 18904
+12:57:50.259: (I) 18908: Main thread id: 18908
+12:57:50.259: (I) 18908: Qt::AA_EnableHighDpiScaling: false
+12:57:50.259: (I) 18908: Qt::AA_DisableHighDpiScaling: false
+12:57:50.259: (I) 18908: Qt Screen 0: primary, winScale: 100%, pixelRatio: 1, logDpi: 115, phyDpi: 141.951, log/phy: 81%, geometry: {x:0, y:0, w: 1920, h: 1080}, available: {x:0, y:0, w: 1920, h: 1022}
+12:57:50.259: (I) 18908: 
+12:57:50.442: (I) 18908: Setup crash reporter parameters
+13:00:52.191: (I) 18908: Create transcoder for item: QUuid("{f34f8b90-3938-4628-855e-b8b049a2e06d}")
+13:00:52.191: (I) 18908: === transcoding info ===
+13:00:52.191: (I) 18908: 	uid           : QUuid("{f34f8b90-3938-4628-855e-b8b049a2e06d}")
+13:00:52.191: (I) 18908: 	source        : "C:/Users/ana carolina/Desktop/star ghost_AME/Composição 1.mp4"
+13:00:52.191: (I) 18908: 	target        : "C:/Users/ana carolina/Desktop/star ghost_AME/Composição 1.webm"
+13:00:52.191: (I) 18908: 	container     : "webm"
+13:00:52.191: (I) 18908: 	trim start    : 0
+13:00:52.191: (I) 18908: 	trim end      : 30293330
+13:00:52.191: (I) 18908: 	use video     : true
+13:00:52.191: (I) 18908: 	use audio     : true
+13:00:52.191: (I) 18908: ==== video settings ====
+13:00:52.191: (I) 18908: 	name        : "libvpx"
+13:00:52.191: (I) 18908: 	resolution  : QSize(512, 512)
+13:00:52.191: (I) 18908: 	framerate   : 0
+13:00:52.191: (I) 18908: 	bitrate     : 6000000
+13:00:52.191: (I) 18908: 	quality     : 90
+13:00:52.191: (I) 18908: ==== audio settings ====
+13:00:52.191: (I) 18908: 	name        : "libvorbis"
+13:00:52.191: (I) 18908: 	channels    : 2
+13:00:52.191: (I) 18908: 	samplerate  : 48000
+13:00:52.191: (I) 18908: 	bitrate     : 96
+13:00:52.222: (I) 18908: Open source file: "C:/Users/ana carolina/Desktop/star ghost_AME/Composição 1.mp4"
+13:00:52.222: (I) 18908: === file media info ===
+13:00:52.222: (I) 18908: 	duration      : 30293330
+13:00:52.222: (I) 18908: 	video codec   : "h264"
+13:00:52.222: (I) 18908: 	resolution    : QSize(512, 512)
+13:00:52.222: (I) 18908: 	framerate     : 30
+13:00:52.222: (I) 18908: 	bitrate       : 5196850
+13:00:52.222: (I) 18908: 	angle         : 0
+13:00:52.222: (I) 18908: 	audio codec   : "aac"
+13:00:52.222: (I) 18908: 	channels      : 2
+13:00:52.222: (I) 18908: 	samplerate    : 48000
+13:00:52.222: (I) 18908: start video stream processing...
+13:00:52.222: (I) 18908: selected video codec libvpx VP8
+13:00:52.222: (I) 18908: start open video stream
+13:00:52.238: (I) 18908: video parameters: 512 512 0
+13:00:52.238: (I) 18908: start audio stream processing...
+13:00:52.238: (I) 18908: selected audio codec libvorbis
+13:00:52.238: (I) 18908: start open audio stream
+13:00:52.238: (I) 18908: audio parameters: 2 stereo 48000
+13:00:52.238: (I) 18908: Open target file: "C:/Users/ana carolina/Desktop/star ghost_AME/Composição 1.webm"
+13:00:52.238: (I) 18908: Transcoder ready
+13:00:53.368: (!) 18908: Error while feeding the filtergraph Invalid argument
+13:00:53.370: (!) 18908: Error while feeding the filtergraph Invalid argument
+13:22:26.776: (I) 18908: System close requested (installer or shutdown)
+13:22:26.776: (I) 18908: Request pahse 2

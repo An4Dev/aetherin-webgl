@@ -1,0 +1,21 @@
+
+
+------------------------------------------------------------
+Application started
+13:30:37.659: (I) 18032: Timestamp: QDateTime(2024-09-04 13:30:37.659 Hora oficial do Brasil Qt::LocalTime)
+13:30:37.659: (I) 18032: OS version: "Windows 10 Version 2009"
+13:30:37.660: (I) 18032: Kernel version: "10.0.22631"
+13:30:37.660: (I) 18032: CPU architecture: "x86_64"
+13:30:37.660: (I) 18032: Build ABI: "x86_64-little_endian-llp64"
+13:30:37.660: (I) 18032: Executable: "C:/Program Files (x86)/Icecream Video Converter/icevideosvc.exe"
+13:30:37.660: (I) 18032: BuildVersion: ""
+13:30:37.660: (I) 18032: DisplayVersion: ""
+13:30:37.660: (I) 18032: PID: 19096
+13:30:37.660: (I) 18032: Main thread id: 18032
+13:30:37.660: (I) 18032: Qt::AA_EnableHighDpiScaling: false
+13:30:37.660: (I) 18032: Qt::AA_DisableHighDpiScaling: false
+13:30:37.660: (I) 18032: Qt Screen 0: primary, winScale: 100%, pixelRatio: 1, logDpi: 115, phyDpi: 141.951, log/phy: 81%, geometry: {x:0, y:0, w: 1920, h: 1080}, available: {x:0, y:0, w: 1920, h: 1022}
+13:30:37.660: (I) 18032: 
+13:30:38.120: (I) 18032: Setup crash reporter parameters
+15:53:39.041: (I) 18032: System close requested (installer or shutdown)
+15:53:39.041: (I) 18032: Request pahse 2

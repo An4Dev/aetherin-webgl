@@ -1,0 +1,24 @@
+[09.10 20:10:48.186] [Log] Log started.
+[09.10 20:10:48.268] [Program] Sentry initialized.
+[09.10 20:10:48.287] [InstallerBootstrapper] InstallerBootstrapper started.
+[09.10 20:10:48.287] [InstallerBootstrapper] Microsoft Windows NT 10.0.22631.0
+[09.10 20:10:48.287] [InstallerBootstrapper] SetupExecutableFileName: 'OfficeSuiteSetup.exe'.
+[09.10 20:10:48.287] [InstallerBootstrapper] MsiInstallerFileName: 'OfficeSuiteInstaller.msi'.
+[09.10 20:10:48.287] [InstallerBootstrapper] AppInstallerFileName: 'package.appinstaller'.
+[09.10 20:10:48.287] [InstallerBootstrapper] AppxPackageFileName: 'MobiSystems.OfficeSuite.Package_8.90.57297.0_x64.msix'.
+[09.10 20:10:48.287] [InstallerBootstrapper] .NET Framework Registry Release Key Value: 533320
+[09.10 20:10:48.287] [InstallerBootstrapper] .NET Framework 4.8 or later is installed
+[09.10 20:10:48.292] [InstallerBootstrapper] No Installed products found.
+[09.10 20:10:48.292] [InstallerBootstrapper] Installer type was NOT forced by the configuration. Will be determined by the code logic
+[09.10 20:10:48.299] [InstallerBootstrapper] Windows build is eligible for MSIX installer.
+[09.10 20:10:48.299] [InstallerBootstrapper] Appx installer is disabled temporary. Installer type: MSI will be used
+[09.10 20:10:48.299] [InstallerBootstrapper] Executing assembly directory: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0'.
+[09.10 20:10:48.299] [InstallerBootstrapper] SFX executable directory: 'C:\Users\ana carolina\Downloads'.
+[09.10 20:10:48.300] [InstallerBootstrapper] Setup executable path: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\OfficeSuiteSetup.exe'.
+[09.10 20:10:48.301] [InstallerBootstrapper] Local Setup executable NOT found at: 'C:\Users\ana carolina\Downloads\OfficeSuiteSetup.exe'.
+[09.10 20:10:48.301] [InstallerBootstrapper] Local MSI installer NOT found at: 'C:\Users\ana carolina\Downloads\OfficeSuiteInstaller.msi'.
+[09.10 20:10:48.303] [InstallerParametersService] The 'InstallerId' parameter is not found in executable payload: C:\Users\ana carolina\Downloads\OfficeSuiteMultiSetup_IID_400a2075-8a8c-46af-aadf-7f7fb60d2eb9.exe.
+[09.10 20:10:48.308] [InstallerParametersService] 'InstallerId' parameter found in executable filename: 400a2075-8a8c-46af-aadf-7f7fb60d2eb9.
+[09.10 20:10:48.309] [InstallerBootstrapper] Attempt 1: Starting installation process for 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\OfficeSuiteSetup.exe' with arguments: /iid 400a2075-8a8c-46af-aadf-7f7fb60d2eb9
+[09.10 20:10:49.381] [InstallerBootstrapper] Waiting for 1 second after initiating the installer process.
+[09.11 14:29:45.077] [InstallerBootstrapper] Installation process for 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\OfficeSuiteSetup.exe' has completed. Exit code: 0

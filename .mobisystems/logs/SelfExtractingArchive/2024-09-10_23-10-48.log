@@ -1,0 +1,45 @@
+[09.10 20:10:48.013] [Log] Log started.
+[09.10 20:10:48.015] [Program] SelfExtractingArchive started.
+[09.10 20:10:48.020] [SelfExtractingArchive] Extract Path: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0'.
+[09.10 20:10:48.020] [SelfExtractingArchive] Bootstrapper Path: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\Mobisystems.Installer.Bootstrapper.exe'.
+[09.10 20:10:48.094] [SelfExtractingArchive] The following file were extracted.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\Microsoft.Bcl.AsyncInterfaces.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\MobiSystems.Installer.Bootstrapper.exe'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\MobiSystems.Installer.Bootstrapper.exe.config'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\OfficeSuiteSetup.exe'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\package.appinstaller'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\Sentry.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Buffers.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Collections.Immutable.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Memory.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Numerics.Vectors.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Reflection.Metadata.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Runtime.CompilerServices.Unsafe.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Runtime.InteropServices.RuntimeInformation.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Text.Encodings.Web.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Text.Json.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Threading.Tasks.Extensions.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Extracted File: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.ValueTuple.dll'.
+[09.10 20:10:48.094] [SelfExtractingArchive] Process start: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\Mobisystems.Installer.Bootstrapper.exe --sfx-executable "C:\Users\ana carolina\Downloads\OfficeSuiteMultiSetup_IID_400a2075-8a8c-46af-aadf-7f7fb60d2eb9.exe"'
+[09.11 14:29:45.108] [SelfExtractingArchive] Cleanup temp files has started.
+[09.11 14:29:45.109] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\archive.zip'
+[09.11 14:29:45.110] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.ValueTuple.dll'
+[09.11 14:29:45.111] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Threading.Tasks.Extensions.dll'
+[09.11 14:29:45.111] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Text.Json.dll'
+[09.11 14:29:45.111] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Text.Encodings.Web.dll'
+[09.11 14:29:45.111] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Runtime.InteropServices.RuntimeInformation.dll'
+[09.11 14:29:45.111] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Runtime.CompilerServices.Unsafe.dll'
+[09.11 14:29:45.111] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Reflection.Metadata.dll'
+[09.11 14:29:45.112] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Numerics.Vectors.dll'
+[09.11 14:29:45.112] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Memory.dll'
+[09.11 14:29:45.112] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Collections.Immutable.dll'
+[09.11 14:29:45.112] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\System.Buffers.dll'
+[09.11 14:29:45.112] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\Sentry.dll'
+[09.11 14:29:45.112] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\package.appinstaller'
+[09.11 14:29:45.112] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\OfficeSuiteSetup.exe'
+[09.11 14:29:45.113] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\MobiSystems.Installer.Bootstrapper.exe.config'
+[09.11 14:29:45.113] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\MobiSystems.Installer.Bootstrapper.exe'
+[09.11 14:29:45.114] [SelfExtractingArchive] Deleting file: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0\Microsoft.Bcl.AsyncInterfaces.dll'
+[09.11 14:29:45.114] [SelfExtractingArchive] Deleting directory: 'C:\Users\ana carolina\AppData\Local\Temp\c73df33b-3f60-4914-befc-766147179af0'
+[09.11 14:29:45.114] [SelfExtractingArchive] Cleanup temp files completed.
+[09.11 14:29:45.114] [Program] SelfExtractingArchive completed with result 0.
