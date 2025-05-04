@@ -1,6 +1,13 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
+const TelegramBot = require('node-telegram-bot-api');
+const bot = new TelegramBot('7976256188:AAEzPyX_lhRMRu3spUpKwA63OdXNelW6lDw', { polling: true });
+
+bot.on('message', (msg) => {
+  const chatId = msg.chat.id;
+  bot.sendMessage(chatId, 'Hello from Aetherin backend!');
+});
 
 app.use(express.json()); // Enable JSON body parsing
 
